@@ -1,0 +1,81 @@
+Amber: added +1 Gold, added Harvest value 40 Gold, Prereqtech Mining
+
+Bananas: added +1 Science, increased Harvest value from 20 -> 25
+
+Cattle: added +1 Production, added Plains as valid terrain, increased Harvest value from 20 -> 50
+
+Cinnamon and Cloves: No Changes
+
+Citrus: reduced Food by -1, added Harvest value Food 20 Gold 30, Prereqtech Irrigation
+
+Cocoa: added Harvest value Food 20 Gold 40, Prereqtech Bronze Working
+
+Coffee: added +1 Production, added Harvest value Gold 40 Production 30
+
+Copper: decreased Harvest value from 40 -> 30
+
+Cotton: decreased gold yeild by -1 from 3 -> 2, decreased Happiness value from 4 -> 2,
+
+Crabs: changed yeilds from +2 Gold -> +1 Science +1 Culture, changed LakeEligible to false(0), changed Harvest value from Gold 40 -> Food 30
+
+Deer: added yeild +1 Food, added Harvest value Food 30 and increased Production from 20 -> 30
+
+Diamond: added Harvest value 90 gold
+
+Dyes: added +1 Gold, added coast as valid terrain, made LakeEligible true(1), added Harvest value 25 Gold, Prereqtech Pottery
+
+Fish: added +1 Production and +1 Gold to yeilds, increased Harvest value from 20 Food -> 40 Food
+
+Furs: decreased Happiness from 4 -> 3, changed +1 Food yeild to +1 Culture, added Harvest value 40 Gold
+
+Gypsum: decreased Happiness from 4 -> 3, increased Production yeild from 1 -> 2, added Harvest value production gold
+
+Honey: added +1 Culture and +1 Gold to yeilds, added Harvest value 40 Food and 30 Gold, added Valid Feature Forest
+
+Incense: decreased Happiness from 4 -> 2, increased Faith yeild from 1 -> 2 and added +1 Culture yield, added Harvest value 25 Faith 30 Gold
+
+Ivory: changed Productiuon yeild to +2 Faith, added Harvest value 50 Gold 25 Faith,
+
+Jade: added +1 Faith yeild, added Harvest value 40 Gold
+
+Maize: changed Harvest value from Gold to Food
+
+Marble: changed Happiness value from 4 to 2, added Harvest value 40 Gold
+
+Mercury: changed Happiness value from 4 to 2, added Harvest value 40 Gold
+
+Olives: changed Happiness value from 4 to 3, changed Production yeild to Food, added Harvest value 30 Food
+
+Pearls: added +1 Gold yeild, added Harvest value 30 Gold
+
+Rice: changed Harvest value from 20 to 50
+
+Salt: changed Food yield from +1 -> +2, added Harvest value 40 Food 60 Gold
+
+Sheep: changed Harvest value from 20 to 30
+
+Silk: added +1 Science yield, added Harvest value 70
+
+Silver: added Harvest value 50 gold
+
+Spices: added +1 Culture yield, added Harvest value 30 Food
+
+Stone: added valid terrain Plains Hills
+
+Sugar: added +1 Gold yield, removed +1 Food yeild, added Harvest value 40 Gold
+
+Tea: added +1 Culture yield, removed +1 Science Yield, added Harvest value 30 Gold
+
+Tobacco: reduced Happiness from 4 -> 3, removed +1 Faith yield, added +1 Culture yield, added Harvest value 50 Gold
+
+Toys: changed Happiness from 4 -> 3
+
+Truffles: added +1 Food yield, added Harvest value 70 Gold, 30 Food
+
+Turtles:  added +1 Food yield, reduced Happiness from 4 -> 3, added Harvest value Food 40
+
+Whales: added +1 Food yield, +1 Culture yield, added Harvest value 40 Food, 50 Gold
+
+Wheat: added +1 Production yield, increased Harvest value from 20 Food -> 50 Food
+
+Wine: added +1 Culture yield, added Harvest value 50 Gold, 20 Food

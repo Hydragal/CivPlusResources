@@ -1,0 +1,11 @@
+Intended Effects
+
+Lumber Mills placed on Jungle (Civ+_Improvements.sql Lines 10-12, for Rubber and Bamboo improvement)
+
+Cannabis: Grows on: Grassland+Hills, Plains+Hills, Desert, NOT on Features, +2 Gold +1 Faith +1 Culture, Plantation Improvement(+2G +.5 Housing)
+
+Saffron: Should grow exclusively on Desert Floodplains. Original mods list valid features as Floodplain, but doesn't specify valid terrain
+Desert. This might be a mistake in the original mod, I have replicated this state, and note this here just in case. For other resources,
+like Rubber, it makes sense to designate only the valid features, Jungle can only appear on Grassland/Hills and Plains/Hills.
+
+Caviar: Should only spawn in lakes, CHECK to ensure frequency 1 seafrequency 0 and lakeeligability 1 causes that.4
